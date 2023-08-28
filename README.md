@@ -1,1 +1,2 @@
 # bmwPicture
+Jsdelivr   cdn
